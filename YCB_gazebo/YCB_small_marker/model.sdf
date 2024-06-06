@@ -4,11 +4,12 @@
     <static>false</static>
     <link name="link">
       <inertial>
+        <pose>0.08 0.0 0 0 0 0</pose>
         <mass>2.0</mass>
         <inertia>
-          <ixx>0.001</ixx>
-          <iyy>0.001</iyy>
-          <izz>0.001</izz>
+          <ixx>0.00001</ixx>
+          <iyy>0.0</iyy>
+          <izz>0.0</izz>
           <ixy>0.0</ixy>
           <ixz>0.0</ixz>
           <iyz>0.0</iyz>
