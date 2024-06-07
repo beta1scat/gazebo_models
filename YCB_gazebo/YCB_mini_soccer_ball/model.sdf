@@ -29,9 +29,9 @@
       </visual>
       <collision name="collision">
         <geometry>
-          <mesh>
-            <uri>model://YCB_mini_soccer_ball/meshes/model.stl</uri>
-          </mesh>
+          <sphere>
+            <radius>0.07</radius>
+          </sphere>
         </geometry>
       </collision>
     </link>
