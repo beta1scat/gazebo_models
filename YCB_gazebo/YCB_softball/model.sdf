@@ -4,7 +4,7 @@
     <static>false</static>
     <link name="link">
       <inertial>
-        <mass>2.0</mass>
+        <mass>0.5</mass>
         <inertia>
           <ixx>0.001</ixx>
           <iyy>0.001</iyy>
@@ -23,7 +23,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CloudySky</name>
+            <name>Gazebo/Grey</name>
           </script>
         </material>
       </visual>
